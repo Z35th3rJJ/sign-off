@@ -1,0 +1,13 @@
+{
+  "name": "小橘",
+  "location": "杭州",
+  "template": "{name} 书于 {location} {season}\n{emoji} {seal}",
+  "emoji": "🏮",
+  "seal": "[橘印]",
+  "mood": "",
+  "contextMode": "auto",
+  "customTemplates": {
+    "work": "{name} · {location}",
+    "casual": "{name} 在 {location} {greeting} {emoji}"
+  }
+}
